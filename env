@@ -1,0 +1,14 @@
+PORT=8888
+
+NODE_ENV=development
+#NODE_ENV=production
+
+#LOG_LEVEL=info
+LOG_LEVEL=debug
+
+#LOG_PATH=~/application.log
+
+SQLITE_FILENAME=./mydb.sqlite
+
+# Change it. It's used to calculate password and api-key SHA
+PASSWORD_SECRET=Change-Me-To-Something-Random!
