@@ -5,7 +5,7 @@ Basic template to quickly start API application with Node and Express.
 ## Content
 
  * anthorization with "api-key" header
- * loggin with Winston
+ * logging with Winston
  * SQLite database
  * migrations
 
